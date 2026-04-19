@@ -2,7 +2,7 @@
 
 """Funciones básicas de una calculadora."""
 
-AUTOR = "Daniela, Juan Miguel, Camilo y David" 
+AUTOR = "Daniela, Juan Miguel, Camilo y David"
 
 
 def sumar(a, b):
