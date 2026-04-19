@@ -1,4 +1,5 @@
 # app/calculadora.py
+
 """Funciones básicas de una calculadora."""
 
 AUTOR = "Daniela, Juan Miguel, Camilo y David"  # IMPORTANTE: Reemplaza con tu nombre completo (debe coincidir con el nombre que uses en cualquier otro identificador del proyecto. Sugerencia: Usuario de correo de EAFIT)
